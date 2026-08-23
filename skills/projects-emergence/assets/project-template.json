@@ -1,0 +1,16 @@
+{
+  "id": "project-id",
+  "title": "Project title",
+  "oneLine": "One sentence describing the intended outcome.",
+  "status": "idea",
+  "targetUser": "Person who experiences the problem",
+  "problem": "Problem in its actual context",
+  "hypothesis": "Change expected to improve the outcome",
+  "chosenPath": "replicate",
+  "evidence": [],
+  "public": {
+    "summary": "Public-safe summary",
+    "demoUrl": "",
+    "sourceUrl": ""
+  }
+}

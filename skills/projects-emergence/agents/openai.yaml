@@ -1,0 +1,7 @@
+interface:
+  display_name: "Projects Emergence"
+  short_description: "Turn rough ideas into evidence-backed projects"
+  brand_color: "#4F46E5"
+  default_prompt: "Use $projects-emergence to turn my rough idea into a small, research-backed project."
+policy:
+  allow_implicit_invocation: true
