@@ -1,11 +1,11 @@
 ---
 name: projects-emergence
-description: Develop rough ideas into research-backed, reproducible, reflective, and publishable projects. Use when a project needs problem framing, evidence gathering, a research gate before implementation, iteration, or a public handoff; skip routine low-risk edits whose requirements are already clear.
+description: Apply academic research methods to develop rough ideas into evidence-backed, reproducible, reflective, and publishable projects or products. Use for problem framing, prior-work research, replication, hypothesis testing, evidence gates, iteration, or public handoff; skip routine low-risk edits whose requirements are already clear.
 ---
 
 # Projects Emergence
 
-Turn an early idea into a project whose decisions, implementation, and claims can be inspected and revisited.
+Apply the logic of academic research to project and product development. Turn an early idea into an evolving inquiry whose decisions, implementation, evidence, and claims can be inspected and revised.
 
 The default loop is:
 
@@ -13,7 +13,7 @@ The default loop is:
 clarify → research → replicate or adapt → implement → reflect → research → revise
 ```
 
-This is a decision loop, not a requirement to manufacture novelty. A well-supported replication or adaptation is a valid outcome.
+This is a decision loop, not a requirement to write academic documents or manufacture novelty. Existing solutions function as related work, implementation functions as an experiment, and reflection determines whether the evidence supports publication or another research pass. A well-supported replication or adaptation is a valid outcome.
 
 ## Start from the decision
 

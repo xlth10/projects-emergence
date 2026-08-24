@@ -1,7 +1,7 @@
 {
   "name": "projects-emergence",
   "version": "0.1.0-beta",
-  "description": "A research-driven Agent Skill that turns rough ideas into reproducible, reflective, and publishable projects for Codex and compatible coding agents.",
+  "description": "An Agent Skill that applies academic research methods to reproducible, reflective, and publishable project and product development.",
   "author": {
     "name": "xlth10",
     "url": "https://github.com/xlth10"
@@ -19,8 +19,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Projects Emergence",
-    "shortDescription": "Turn rough ideas into evidence-backed projects.",
-    "longDescription": "Develop a rough idea through proportionate research, evidence gates, minimal implementation, reflection, and a reviewable publication handoff.",
+    "shortDescription": "Apply research methods to evidence-backed projects.",
+    "longDescription": "Develop projects and products through prior-work research, replication, testable hypotheses, evidence gates, minimal experiments, reflection, and revision.",
     "developerName": "xlth10",
     "category": "Productivity",
     "capabilities": [

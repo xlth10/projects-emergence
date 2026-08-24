@@ -2,6 +2,18 @@
 
 All notable changes to Projects Emergence will be documented in this file.
 
+## [Unreleased]
+
+### Added
+
+- Production icon assets for Codex Skill UI surfaces.
+- README explanation of how academic research methods map to project and product development.
+
+### Changed
+
+- Reframed the public documentation around decisions, hypotheses, experiments, evidence, reflection, and bounded publication claims.
+- Updated Skill and plugin metadata to express the research-method positioning.
+
 ## [0.1.0-beta] - 2026-08-23
 
 ### Added

@@ -1,7 +1,9 @@
 interface:
   display_name: "Projects Emergence"
-  short_description: "Turn rough ideas into evidence-backed projects"
+  short_description: "Apply research methods to projects and products"
+  icon_small: "./assets/projects-emergence-icon-small.png"
+  icon_large: "./assets/projects-emergence-icon.png"
   brand_color: "#4F46E5"
-  default_prompt: "Use $projects-emergence to turn my rough idea into a small, research-backed project."
+  default_prompt: "Use $projects-emergence to develop my idea as a research-backed, testable project."
 policy:
   allow_implicit_invocation: true
